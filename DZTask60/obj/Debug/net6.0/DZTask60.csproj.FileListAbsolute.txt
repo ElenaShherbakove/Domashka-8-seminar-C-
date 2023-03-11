@@ -1,0 +1,15 @@
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\bin\Debug\net6.0\DZTask60.exe
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\bin\Debug\net6.0\DZTask60.deps.json
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\bin\Debug\net6.0\DZTask60.runtimeconfig.json
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\bin\Debug\net6.0\DZTask60.dll
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\bin\Debug\net6.0\DZTask60.pdb
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.csproj.AssemblyReference.cache
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.AssemblyInfoInputs.cache
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.AssemblyInfo.cs
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.csproj.CoreCompileInputs.cache
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.dll
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\refint\DZTask60.dll
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.pdb
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\DZTask60.genruntimeconfig.cache
+C:\Users\Public\Учеба\Разработчик\SeminarC#8\DZTask60\obj\Debug\net6.0\ref\DZTask60.dll
